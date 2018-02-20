@@ -58,9 +58,9 @@ Soms zijn er features of vragen waarbij we eerst bij Digipolis verder over moete
 
 
 ## ACPaaS UI Team
-* Jasper Van Proeyen (<Jasper.VanProeyen@Digipolis.be>)
-* Lieven Van Gestel (<Lieven.VanGestel@digipolis.be>)
-* Tom (todo)
+* Jasper Van Proeyen (<jasper.vanproeyen@digipolis.be>)
+* Lieven Van Gestel (<lieven.vangestel@digipolis.be>)
+* Tom Van Den Broeck (<tom.vandenbroeck@digipolis.be>)
 
 
 ## To do's
