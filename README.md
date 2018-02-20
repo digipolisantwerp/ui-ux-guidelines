@@ -1,26 +1,66 @@
-# ACPaaS UI open-source?
+# ACPaaS UI als open-source
 
-## Argumenten tegen open-source
+## Intro
 
-### Andere partijen kunnen onze code inkijken
+In dit document schetsen we waarom we kiezen om ACPaaS UI, het [Design System](https://www.invisionapp.com/blog/guide-to-design-systems/) van Digipolis open te stellen op GitHub.  
 
-ACPaaS UI is een verzameling van componenten die in nagenoeg elke bibliotheek bestaat. Een datepicker, auto-complete, enz. zijn niet bepaald exotische componenten. Het enige grote verschil is dat onze componenten (qua markup) afgestemd zijn op de huisstijl van de Stad Antwerpen en dat er enkele features aan toegevoegd werden die specifiek afgestemd zijn op of gevraagd werden door burgers en/of medewerkers van de Stad Antwerpen. Men heeft dus meer baat met de code te stelen van een meer algemene bibliotheek en die aan te passen.
+## Van een interne source code...
 
-### Andere partijen kunnen zien wanneer we slechte code schrijven
+Tot voor kort bewaarde Digipolis de code van ACPaaS UI op een intern Source Code systeem. Dit gaf enkele nadelen:
 
-Allereerst is goede of slechte code een relatief begrip, maar tegelijk moet je dit gegeven vooral zien als een goede reden om wel open-source te gaan. Door 'slechte' code openbaar te maken kunnen andere partijen voorstellen doen om ze beter te maken. Tegelijk geeft het ons een extra reden om voor kwalitatieve code te gaan. Daarnaast willen we ook onze start-up mentaliteit tonen, iets wat we met open-source code zeker gaan doen.
+1. Externe ontwikkelaars moesten vaak wachten totdat ze een Digipolis account kregen.
+2. Bijkomende developers gebruikte andere hun Digipolis account omdat dit gewoon sneller gaat. Zo weten we niet wie precies wat aanpast
+3. Vanop afstand moest er gewerkt worden met een VPN, wat toch wat trager werkt en dikwijls storend werkte op hun dev pc's.
+4. Wanneer startups, leveranciers aan een [challenge](https://antwerpen.digipolis.be/nl/opdrachten) willen meedoen, kunnen ze nog niet gaan kijken bij ACPaaS UI, dit gaat enkel wanneer ze gekozen zijn als opdrachtnemer. Dan krijgen ze pas een Digipolis account?
 
-## Argumenten voor open-source
+Teveel drempels....Hierdoor werd er snel gewerkt met locale copies van ACPaaS UI. Als er vervolgens bugfixes werden gedaan, stroomde die niet vaak terug naar de bron.
 
-- We laten onze start-up mentaliteit zien aan de wereld.
-- Developers dienen niet ingelogd zijn op het Wi-Fi netwerk van de Stad Antwerpen om aan de componenten te geraken.
-- Personen die willen inschrijven voor challenges kunnen op voorhand al eens proberen.
-- Developers zijn meer geneigd te contribueren, omdat dit een positief effect heeft op hun contribution diagram.
-- …
+## ...naar GitHub
+
+We verhuizen ACPaaS UI naar GitHub en werken samen met de startups. Dit past perfect in onze visie, [buy-from-startups](https://www.digipolis.be/projecten/antwerpen-koopt-it-aan-van-start-ups), moeten we de de leefwereld van hen hanteren, hier is GitHub een essentieel deel ervan. Enkele voordelen:
+
+- De ACPaaS UI core branding staat [reeds op GitHub](https://github.com/a-ui)
+- Developers kunnen van bij Digipolis of erbuiten kunnen mee bugs fixen, features toevoegen en zelfs nieuwe componenten bij creeëren.  
+- Developers hoeven niet via VPN of het Wi-Fi netwerk van de Stad Antwerpen te gaan.
+- Er zijn nagenoeg geen fricties, drempels, GitHub staat bij wijze van spreken steeds open op een developer pc
+- Personen die willen inschrijven voor challenges kunnen op voorhand al eens proberen en ontdekken.
+- Developers zijn fier op hun contributies op GitHub, ze werken mee aan een groter geheel, je ziet het ook aan hun eigen contribution diagram.
+- Alles is meer op persoonlijke naam van de Developers. We weten wie welke bijdrage levert (contributors), wat er met de code gebeurt (forks). We krijgen zo ook een beter totaalbeeld van de community die eraan werkt. 
+
+
+## Wat kan je hier terug vinden
+
+Een Design system is een verzameling van herbruikbare componenten maar ook  richtlijnen. Je kan op GitHub het volgende terugvinden:
+
+- De componenten zelf
+- Documentatie over de individuele componenten
+- Guidelines voor het gebruik van de componenten
+- Een praktische handleiding hoe je kan contribueren aan ACPaaS UI
+- Design elementen zoals Sketch files, Axure assets, SVG's, PNG's
+- UI/UX patterns & guidelines
+
+
+## Hoe gaan we te werk
+
+### Code contribueren
+
+ACPaaS UI is een mono-repository, wat wil zeggen dat alle componenten op één GitHub repository staat. Door een fork te maken en te werken met Pull Requests, kan je code (features, bug fixes, ...) aanbieden aan Digipolis. Het ACPaaS UI team (Jasper, Lieven, Tom) bekijkt en evalueeert deze code en na goedkeuring wordt zo opgenomen. 
+
+### Nieuwe componenten
+
+Ook hier gaat het ACPaaS UI team de PR's bekijken van nieuwe code, zo kan er gechecked worden of het kwalitatief is en/of de documentatie aanwezig is, etc.
+
+### Issues, vragen, features
+
+Het ACPaaS UI team volgt de community op, en samen met de andere community leden beantwoorden ze de vragen en issues. Nieuwe feautures en issues worden beheerd via [GitHub milestones](https://help.github.com/articles/about-milestones/).
+
+Soms zijn er features of vragen waarbij we eerst bij Digipolis verder over moeten aligneren. Hiervoor bestaat er een UI/UX Guild bij Digipolis die twee-wekelijks een meeting houdt waarin deze openstaande topics besproken kunnen worden.
+
 
 ## To do's
 
 - Product ownership rules opstellen
 - Contribueren in visual gieten
 - Nodige guidelines uitschrijven
+  - contributing guidelines [via het gihub systeem](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 - Nodige assets bekijken
