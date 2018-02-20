@@ -30,7 +30,7 @@ We verhuizen ACPaaS UI naar GitHub en werken samen met de startups. Dit past per
 
 ## Wat kan je hier terug vinden
 
-Een Design system is een verzameling van herbruikbare componenten maar ook  richtlijnen. Je kan op GitHub het volgende terugvinden:
+Een Design system is een verzameling van herbruikbare componenten maar ook richtlijnen. Je kan op GitHub het volgende terugvinden:
 
 - De componenten zelf
 - Documentatie over de individuele componenten
@@ -44,7 +44,7 @@ Een Design system is een verzameling van herbruikbare componenten maar ook  rich
 
 ### Code contribueren
 
-ACPaaS UI is een mono-repository, wat wil zeggen dat alle componenten op één GitHub repository staat. Door een fork te maken en te werken met Pull Requests, kan je code (features, bug fixes, ...) aanbieden aan Digipolis. Het ACPaaS UI team (Jasper, Lieven, Tom) bekijkt en evalueeert deze code en na goedkeuring wordt zo opgenomen. 
+ACPaaS UI is een mono-repository, wat wil zeggen dat alle componenten op één GitHub repository staat. Door een fork te maken en te werken met Pull Requests, kan je code (features, bug fixes, ...) aanbieden aan Digipolis. Het [ACPaaS UI](#ACPaaS-UI-Team) team bekijkt en evalueert deze code en na goedkeuring wordt zo opgenomen. 
 
 ### Nieuwe componenten
 
@@ -57,10 +57,16 @@ Het ACPaaS UI team volgt de community op, en samen met de andere community leden
 Soms zijn er features of vragen waarbij we eerst bij Digipolis verder over moeten aligneren. Hiervoor bestaat er een UI/UX Guild bij Digipolis die twee-wekelijks een meeting houdt waarin deze openstaande topics besproken kunnen worden.
 
 
+## ACPaaS UI Team
+* Jasper Van Proeyen (<Jasper.VanProeyen@Digipolis.be>)
+* Lieven Van Gestel (<Lieven.VanGestel@digipolis.be>)
+* Tom (todo)
+
+
 ## To do's
 
 - Product ownership rules opstellen
 - Contribueren in visual gieten
 - Nodige guidelines uitschrijven
-  - contributing guidelines [via het gihub systeem](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+  - contributing guidelines [via het GitHub systeem](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 - Nodige assets bekijken
