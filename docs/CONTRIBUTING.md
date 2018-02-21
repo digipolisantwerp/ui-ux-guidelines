@@ -23,17 +23,17 @@ kudos :+1:
   * [Documentation Styleguide](#documentation-styleguide)
 
 
-##Code of Conduct
+## Code of Conduct
 > **Todo:** Describe how to behave
 
-##I just have a question
+## I just have a question
 > **Todo:** Where to get help, point to github issues, dgpls slack, ACPaaS UI team, ...
 
 
-##Before you start
+## Before you start
 > **Todo:** what you need to know; exlain or refer to the concept of ACPaaS UI
 
-##How can I contribute
+## How can I contribute
 
 ### Reporting Bugs
 > **Todo:** search if bug exist, link to a closed bug, perhaps you can fix the bug yourself, ...
