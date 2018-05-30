@@ -1,8 +1,8 @@
-# Contributing to ACPaaS UI
+# Contributing to ACPaaS UI & UX guidelines
 
-When you're reading this, you'll probably want to contribute to ACPaaS UI and for that, we already thank you upfront. We really appreciate that you want to make ACPaaS UI better, together with us. 
+When you're reading this, you'll probably want to contribute to ACPaaS UI and for that, we already thank you upfront. We really appreciate that you want to make ACPaaS UI better, together with us.
 
-kudos :+1: 
+kudos :+1:
 
 #### Table Of Contents
 
@@ -41,7 +41,7 @@ kudos :+1:
 > **Todo:** where to post bugs, steps to reproduce, examples, behaviour experienced vs expected, screenshots, when did it occur, where exactly, browser details, ...
 
 ### Suggesting Enhancements
-> **Todo:** for enhancements or new features, check before create a new suggestion, 
+> **Todo:** for enhancements or new features, check before create a new suggestion,
 
 > **Todo:** where to post enhancements, examples, behaviour expected, screenshots, current vs new behaviour, why it would be useful
 
@@ -49,7 +49,7 @@ kudos :+1:
 ### Code Contribution
 
 #### Local development
-> **Todo:** what do you need on your dev pc, 
+> **Todo:** what do you need on your dev pc,
 
 #### Pull Requests
 > **Todo:** we follow [GitHub Flow](https://guides.github.com/introduction/flow/). explain the process in a few steps
@@ -59,7 +59,7 @@ kudos :+1:
 
 #### JavaScript Styleguide
 > **Todo:** describe how we like the code to look like, perhaps refer to patterns
- 
+
 #### Documentation Styleguide
 > **Todo:** what do we expect how the various aspects should be  documented.
 
