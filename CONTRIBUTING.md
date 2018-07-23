@@ -6,7 +6,7 @@ kudos :+1:
 
 ## Contributing a guideline
 
-You can start from the [provided sample file](ui/template-copy-this.md) to contribute your own guidelines. Copy it to the approperiate folder inside the "ui" folder and describe everything as clear as possible.
+You can start from the [provided sample file](ui/template-copy-this.md) to contribute your own guidelines. Copy it to the approperiate folder inside the "ui" folder and describe everything as clearly as possible.
 
 If you need to use images or such in your guideline, please store them in the assets folder.
 

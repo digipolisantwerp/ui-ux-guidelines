@@ -1,6 +1,6 @@
 # ACPaaS UI & UX guidelines
 
-A set of guidelines to help you creating a user-friendly app for the city of Antwerp.
+A set of guidelines to help you in creating a user-friendly app for the city of Antwerp.
 
 ## Disclaimer
 
