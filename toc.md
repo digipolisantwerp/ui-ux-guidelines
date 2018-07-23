@@ -1,4 +1,4 @@
-# Patterns
+# Table of contents
 
 ## UI
 

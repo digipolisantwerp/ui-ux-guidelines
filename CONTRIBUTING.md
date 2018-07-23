@@ -4,62 +4,18 @@ When you're reading this, you'll probably want to contribute to ACPaaS UI and fo
 
 kudos :+1:
 
-#### Table Of Contents
+## Contributing a guideline
 
-[Code of Conduct](#code-of-conduct)
+You can start from the [provided sample file](ui/template-copy-this.md) to contribute your own guidelines. Copy it to the approperiate folder inside the "ui" folder and describe everything as clear as possible.
 
-[I just have a question!!!](#i-just-have-a-question)
+If you need to use images or such in your guideline, please store them in the assets folder.
 
-[before you start](#before-you-start)
-[how can I contribute](#how-can-i-contribute)
-  * [Reporting Bugs](#reporting-bugs)
-  * [Suggesting Enhancements](#suggesting-enhancements)
+Don't forget to add your new guideline to the [TOC](TOC.md) afterwards.
 
-[Code Contribution](#code-contribution)
-  * [Local Development](#code-contribution)
-  * [Pull Requests](#code-contribution)
-  * [Git Commit Messages](#git-commit-messages)
-  * [JavaScript Styleguide](#javascript-styleguide)
-  * [Documentation Styleguide](#documentation-styleguide)
+## Suggesting enhancements
 
-
-## Code of Conduct
-> **Todo:** Describe how to behave
+You're welcome to fork the repository and issue a pull request. For any questions or suggestions, you can always [create an issue](https://github.com/digipolisantwerp/ui-ux-guidelines/issues/new) or contact [the authors](README.md).
 
 ## I just have a question
-> **Todo:** Where to get help, point to github issues, dgpls slack, ACPaaS UI team, ...
 
-
-## Before you start
-> **Todo:** what you need to know; exlain or refer to the concept of ACPaaS UI
-
-## How can I contribute
-
-### Reporting Bugs
-> **Todo:** search if bug exist, link to a closed bug, perhaps you can fix the bug yourself, ...
-
-> **Todo:** where to post bugs, steps to reproduce, examples, behaviour experienced vs expected, screenshots, when did it occur, where exactly, browser details, ...
-
-### Suggesting Enhancements
-> **Todo:** for enhancements or new features, check before create a new suggestion,
-
-> **Todo:** where to post enhancements, examples, behaviour expected, screenshots, current vs new behaviour, why it would be useful
-
-
-### Code Contribution
-
-#### Local development
-> **Todo:** what do you need on your dev pc,
-
-#### Pull Requests
-> **Todo:** we follow [GitHub Flow](https://guides.github.com/introduction/flow/). explain the process in a few steps
-
-#### Git Commit Messages
-> **Todo:** describe short how we expect the commit messages
-
-#### JavaScript Styleguide
-> **Todo:** describe how we like the code to look like, perhaps refer to patterns
-
-#### Documentation Styleguide
-> **Todo:** what do we expect how the various aspects should be  documented.
-
+If you need assistance in creating your first guideline, don't hesitate to contact [the authors](README.md).
