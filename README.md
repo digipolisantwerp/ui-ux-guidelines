@@ -4,7 +4,7 @@ A set of guidelines to help you in creating a user-friendly app for the city of 
 
 ## Disclaimer
 
-This project is a work in progress. More guidelines will systematically be added in the future. An overview of the available guidelines can be found [in the TOC](TOC.md).
+This project is a work in progress. More guidelines will systematically be added in the future. An overview of the available guidelines can be found [in the TOC](toc.md).
 
 ## Contributing
 
