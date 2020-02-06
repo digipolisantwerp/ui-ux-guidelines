@@ -1,15 +1,15 @@
 # Hoofdnavigatie
 
 ## Probleemstelling
-Als je een basis structuur wil opzetten met navigatie kan je deze laatste op verschillende manieren weergeven. Het zal ook verschillend zijn afhankelijk van het soort, gaat het hier over een `content web sites` voor marketing doeleinden of eerder een `functionele applicatie`? 
+Als je een basis structuur wil opzetten met navigatie kan je deze laatste op verschillende manieren weergeven. Afhankelijk van de soort, gaat het hier over een `content applicatie` voor marketing doeleinden of eerder een `functionele applicatie`? 
 
 ## Geschikt voor
 Dit patroon is geschikt voor de meeste content websites en functionele applicaties. Het is niet verplicht maar wel aangeraden.
 
-## Implementation
+## Implementatie
 
-### Meta navigation
-De eerste balk aan de bovenzijde van het scherm is voorbehouden voor de meta navigatie, waar we o.a. volgende zaken op terugvinden:
+### Metanavigatie
+De eerste balk aan de bovenzijde van het scherm is voorbehouden voor de metanavigatie, waar we o.a. volgende zaken in terugvinden:
 
 - logo
 - taal switch
@@ -18,14 +18,14 @@ De eerste balk aan de bovenzijde van het scherm is voorbehouden voor de meta nav
 - app switcher
 - username en avatar van de aangemelde gebruiker
 
-Deze metanavigatie gaat de consistentie tussen alle content sites en functionele applicaties verhogen. 
+Deze metanavigatie gaat de consistentie tussen alle content en functionele applicaties verhogen. 
 
 ### Hoofdmenu
-In het hoofdmenu kan je uw applicatie specifieke navigatie aanbrengen. We bekijken de 2 situaties hier.
+In het hoofdmenu kan je de applicatie-specifieke navigatie aanbrengen. We bekijken de 2 situaties.
 
-#### Content web sites
+#### Content applicaties
 
-Content websits hebben een 2e horizontale balk die onder de meta navigatie staat. Menu items zijn horizontaal uitgelijnd naast elkaar. In mobile view staan alle menu items onder elkaar.
+Content applicaties hebben een tweede horizontale balk die onder de meta navigatie staat. Menu items zijn horizontaal uitgelijnd naast elkaar. In mobile view staan alle menu items onder elkaar.
 
 ![Plaatsing A-logo](../assets/main-menu-content.png)
 
