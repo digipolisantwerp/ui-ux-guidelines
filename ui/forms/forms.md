@@ -1,6 +1,6 @@
 # Forms
 
-##Preface
+## Preface
 
 This document offers a set of ** guidelines ** concerning design and construction or online forms.
 Most of the topics mentioned below follow the general **best practices** that apply to form design. It is strongly recommended to follow these guidelines in order to achieve a consistent user experience throughout the many different applications that exist within the Antwerp brand architecture.
