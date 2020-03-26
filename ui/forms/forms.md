@@ -7,7 +7,7 @@ Most of the topics mentioned below follow the general **best practices** that ap
 
 Deviations are possible, but always ensure that they are properly considered.
 
-Also view the [sample form] (https://xd.adobe.com/view/f23474ba-6a8e-4a20-463d-03c5343d956b-8405/?fullscreen) where most of the principles below are visually clarified.
+Also view the [sample form](https://xd.adobe.com/view/f23474ba-6a8e-4a20-463d-03c5343d956b-8405/?fullscreen) where most of the principles below are visually clarified.
 
 ## General
 
