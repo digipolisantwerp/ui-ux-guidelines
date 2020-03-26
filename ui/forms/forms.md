@@ -2,7 +2,7 @@
 
 ## Preface
 
-This document offers a set of ** guidelines ** concerning design and construction or online forms.
+This document offers a set of **guidelines** concerning design and construction or online forms.
 Most of the topics mentioned below follow the general **best practices** that apply to form design. It is strongly recommended to follow these guidelines in order to achieve a consistent user experience throughout the many different applications that exist within the Antwerp brand architecture.
 
 Deviations are possible, but always ensure that they are properly considered.
@@ -103,7 +103,7 @@ The use of the **correct type** of input fields can considerably facilitate the 
 - Input type = "**datetime**" shows the native (mobile) date and time selector
 - Input type = "**month**" shows the native (mobile) month / year selector
 
-*NOTE: some input types can have unwanted behaviour or appearance on desktop browsers*
+_NOTE: some input types can have unwanted behaviour or appearance on desktop browsers_
 
 #### Predefined lists
 
@@ -225,11 +225,11 @@ Automatic scrolling to a specific field is not recommended as it is not alway ex
 
 ### Use of color
 
-Colors can help you to quickly interpret a form. Make sure that the message that these colors have to convey can also be interpreted unambiguously with other means (text, symbols, underlying code ...). *(1.4.1)*
+Colors can help you to quickly interpret a form. Make sure that the message that these colors have to convey can also be interpreted unambiguously with other means (text, symbols, underlying code ...). _([1.4.1](https://www.w3.org/TR/WCAG21/#use-of-color))_
 
 ### Icons
 
-Icons that serve as visual support should not be recognized by screen readers if the purpose of the UI elements is sufficiently clear from the label or name. *(1.1.1)*
+Icons that serve as visual support should not be recognized by screen readers if the purpose of the UI elements is sufficiently clear from the label or name. _([1.1.1](https://www.w3.org/TR/WCAG21/#non-text-content))_
 
 ## Technical requirements
 
@@ -245,18 +245,18 @@ Make clear what the purpose is of the different UI elements. Bear in mind that t
 
 Use clear descriptive headlines and labels.
 
-If possible, ensure that the label of a field is reflected in the name of the field *(1.3.1 - 1.3.2 - 1.3.5 - 2.4.6 - 2.5.3)*
+If possible, ensure that the label of a field is reflected in the name of the field _([1.3.1](https://www.w3.org/TR/WCAG21/#info-and-relationships) - [1.3.2](https://www.w3.org/TR/WCAG21/#meaningful-sequence) - [1.3.5](https://www.w3.org/TR/WCAG21/#identify-input-purpose) - [2.4.6](https://www.w3.org/TR/WCAG21/#headings-and-labels) - [2.5.3](https://www.w3.org/TR/WCAG21/#label-in-name))_
 
 ### Orientation and devices
 
-The displaying on smaller or larger devices or the change of orientation of the device used should not affect how the form can be interpreted. *(1.3.4)*
+The displaying on smaller or larger devices or the change of orientation of the device used should not affect how the form can be interpreted. _([1.3.4](https://www.w3.org/TR/WCAG21/#orientation))_
 
 ### Keyboard
 
 It must be possible for a user to complete and send a form **by using only the keyboard**.
 
-Make sure that the **active element** is clearly distinguishable. *(2.1.1 - 2.1.2 - 2.4.3 - 2.4.7)*
+Make sure that the **active element** is clearly distinguishable. _([2.1.1](https://www.w3.org/TR/WCAG21/#keyboard) - [2.1.2](https://www.w3.org/TR/WCAG21/#no-keyboard-trap) - [2.4.3](https://www.w3.org/TR/WCAG21/#focus-order) - [2.4.7](https://www.w3.org/TR/WCAG21/#focus-visible))_
 
 ### Automatic promotions
 
-Do not allow a form field to initiate complex action when it receives focus or when it is filled in, unless this is expected by the user *(3.2.1 - 3.2.2)*.
+Do not allow a form field to initiate complex action when it receives focus or when it is filled in, unless this is expected by the user _([3.2.1](https://www.w3.org/TR/WCAG21/#on-focus) - [3.2.2](https://www.w3.org/TR/WCAG21/#on-input))_.
