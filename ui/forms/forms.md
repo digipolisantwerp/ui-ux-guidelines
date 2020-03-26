@@ -251,7 +251,7 @@ If possible, ensure that the label of a field is reflected in the name of the fi
 
 The displaying on smaller or larger devices or the change of orientation of the device used should not affect how the form can be interpreted. *(1.3.4)*
 
-###Keyboard
+### Keyboard
 
 It must be possible for a user to complete and send a form **by using only the keyboard**.
 
