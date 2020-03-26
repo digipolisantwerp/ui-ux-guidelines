@@ -11,7 +11,7 @@ Also view the [sample form](https://xd.adobe.com/view/f23474ba-6a8e-4a20-463d-03
 
 ## General
 
-###Less is more
+### Less is more
 
 **Avoid surplus questions**. Each field in a form can become an obstacle to complete the form. Questions asked for obvious reasons will be perceived less as a threshold.
 
