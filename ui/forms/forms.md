@@ -42,7 +42,7 @@ However, in many cases this can also be perceived as **unexpected or unwanted**:
 - Sometimes users do not see that a field has focus, which can lead to annoying or confusing situations.
 - People using screenreaders often have no idea where they are on the page when a certain field automatically attracts focus.
 
-##Structure
+## Structure
 
 `>> ACCOMPANYING INFO (NON-A-STAD FORMS)`
 
