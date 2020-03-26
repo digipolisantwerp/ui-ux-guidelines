@@ -83,7 +83,7 @@ But here applies the same rule: ensure a logical sequence of steps and clearly s
 
 ## Input fields
 
-###Width
+### Width
 
 As a rule of thumb it can be stated that the width of input fields on desktop can take up 4/12 or 6/12 of the page grid.
 On mobile they can span the entire width of the grid. The reason for this is so they can be easily selected by both left and right-handed people.
