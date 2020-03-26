@@ -203,7 +203,7 @@ Reset buttons as they are offered in HTML reset the fields in the form back to t
 
 If a reset button does seem necessary, consider carefully how it should work without obstructing the user.
 
-#Validation and feedback
+# Validation and feedback
 
 Give **clear instructions** for each input field. Use the help text below an input field to provide examples, rules or instructions.
 
