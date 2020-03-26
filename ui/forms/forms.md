@@ -139,7 +139,7 @@ Some data can be written in various ways:
 
 Ensure that it is clear to the user in which format he has to enter data. Tools such as a simple **example** in the help text, an **input mask** or **intelligent form processing** can be useful here.
 
-*NOTE: Take into account that users may enter unexpected input values! (eg people with a different official birth date - 00-01-2004, different house numbers ...)`
+_NOTE: Take into account that users may enter unexpected input values! (eg people with a different official birth date - 00-01-2004, different house numbers ...)_
 
 ## Labels
 
