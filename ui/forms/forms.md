@@ -233,7 +233,7 @@ Icons that serve as visual support should not be recognized by screen readers if
 
 ## Technical requirements
 
-###Layout
+### Layout
 
 Provide a **logical layout** that can be interpreted the same by different technologies.
 
