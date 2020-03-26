@@ -199,7 +199,7 @@ The label on the send button must indicate **what the next step is**.
 
 Reset buttons as they are offered in HTML reset the fields in the form back to their initial values. In most cases this means that they are emptied.
 
-**Try to avoid reset buttons**: they are rarely used intentionally and when they are clicked by accident, it causes a lot of frustration for the user.
+**Try to avoid reset buttons**: they are rarely used intentionally and when they are clicked by accident, it causes a lot of frustration for the user, since it can't be undone.
 
 If a reset button does seem necessary, consider carefully how it should work without obstructing the user.
 
