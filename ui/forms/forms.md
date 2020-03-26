@@ -52,7 +52,7 @@ A form that is well structured will help the user to **understand** what is bein
 
 Limit the number of fields per line to 1 and **align left**. This ensures that the user only has to scan in 1 direction (vertically) and not always have to make horizontal movements in between.
 
-###Sort
+### Sort
 
 Use a **logical order**. Some sets of data are always shown in the same logical order.
 
