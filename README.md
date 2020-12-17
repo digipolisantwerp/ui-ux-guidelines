@@ -8,12 +8,10 @@ This project is a work in progress. More guidelines will systematically be added
 
 ## Contributing
 
-See the [CONTRIBUTING.md](CONTRIBUTING.md) file. For any questions or requests, you can always [create an issue](https://github.com/digipolisantwerp/ui-ux-guidelines/issues/new) or contact the authors (see below).
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file. For any questions or requests, you can always [create an issue](https://github.com/digipolisantwerp/ui-ux-guidelines/issues/new) or contact the author (see below).
 
-## Authors
+## Support
 
-- Erik Lenaerts (<erik.lenaerts@digipolis.be>)
-- Joeri Sebrechts (<joeri.sebrechts@digipolis.be>)
 - Jasper Van Proeyen (<jasper.vanproeyen@digipolis.be>)
 
 ## License
